@@ -1,0 +1,15 @@
+@charset "UTF8";
+
+body {
+    background-color: lightblue;
+}
+
+#sub-menu {
+    position: absolute;
+    left: 1%;
+    bottom: 1%;
+}
+
+pre{
+    background-color: white;
+}
